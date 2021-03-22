@@ -1,18 +1,5 @@
 body{
     text-align: center;
-    background-color: dimgrey;
-}
-#img1{
-    height: 300px;
-    width: 400px;
-}
-#p1{
     font-family: cursive;
-}
-
-#p2{
-    font-family: cursive;
-}
-h1{
-    font-family: cursive;
+    background-color: cyan;
 }
