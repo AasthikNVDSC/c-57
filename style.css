@@ -101,3 +101,5 @@ img{
     width: 180;
     height: 180;
 }
+img.hover{
+    transform: scale(0.8);
